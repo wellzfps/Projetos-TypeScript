@@ -1,0 +1,13 @@
+"use strict";
+const pNome = 'Senai AL';
+let sobreNome = 'Benedito Bentes';
+let numeroCasa = 1045875491;
+let teste = "Olá";
+let Total = 57085.32;
+let soma = numeroCasa + Total;
+let positivo = true;
+let negativo = false;
+console.log(pNome);
+console.log(sobreNome);
+console.log(numeroCasa);
+console.log(typeof numeroCasa);
